@@ -20,5 +20,5 @@ git clone git://github.com/fnobi/bower_resolve.git
 ## usage
 
 ```
-bower_resolve
+bower_resolve --path <project root> <component name>
 ```

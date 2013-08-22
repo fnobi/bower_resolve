@@ -13,7 +13,8 @@
   "license": "BSD",
   "dependencies": {
     "optimist": "~0.5.2",
-    "colors": "~0.6.1"
+    "colors": "~0.6.1",
+    "async": "~0.2.9"
   },
   "devDependencies": {
     "chai": "~1.6.1",
