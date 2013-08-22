@@ -22,7 +22,7 @@ git clone git://github.com/fnobi/bower_resolve.git
 ### on node.js
 
 ```
-var bowerResolve = require('./bowerResolve');
+var bowerResolve = require('bower_resolve');
 
 bowerResolve({
     component: 'paper'
