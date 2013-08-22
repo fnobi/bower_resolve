@@ -1,3 +1,1 @@
-module.exports = {
-    cli: require('./lib/cli')
-};
+module.exports = require('./lib/bowerResolve');
